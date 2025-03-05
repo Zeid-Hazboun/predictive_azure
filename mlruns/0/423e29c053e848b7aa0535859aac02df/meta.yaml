@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/zeidsmac/Desktop/Groningen/Coding_ting/predictive_azure/mlruns/0/423e29c053e848b7aa0535859aac02df/artifacts
+deleted_time: 1740950172638
+end_time: 1740753153626
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 423e29c053e848b7aa0535859aac02df
+run_name: zealous-ray-528
+run_uuid: 423e29c053e848b7aa0535859aac02df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740753153520
+status: 3
+tags: []
+user_id: zeidsmac

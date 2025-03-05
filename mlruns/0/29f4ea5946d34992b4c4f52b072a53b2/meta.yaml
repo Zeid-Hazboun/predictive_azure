@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/zeidsmac/Desktop/Groningen/Coding_ting/predictive_azure/mlruns/0/29f4ea5946d34992b4c4f52b072a53b2/artifacts
+deleted_time: 1740950172635
+end_time: 1740752845236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 29f4ea5946d34992b4c4f52b072a53b2
+run_name: resilient-elk-958
+run_uuid: 29f4ea5946d34992b4c4f52b072a53b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740752845172
+status: 3
+tags: []
+user_id: zeidsmac

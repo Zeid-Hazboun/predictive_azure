@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zeidsmac/Desktop/Groningen/Coding_ting/predictive_azure/mlruns/0/9fa04f9fe156460399bb1334f3ce5345/artifacts
+end_time: 1740950219444
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9fa04f9fe156460399bb1334f3ce5345
+run_name: LSTM_run
+run_uuid: 9fa04f9fe156460399bb1334f3ce5345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740950073932
+status: 3
+tags: []
+user_id: zeidsmac

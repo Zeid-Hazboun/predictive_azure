@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/zeidsmac/Desktop/Groningen/Coding_ting/predictive_azure/mlruns/0/b7c75f17754e45088c572f23a395299e/artifacts
+deleted_time: 1740950172636
+end_time: 1740749917904
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b7c75f17754e45088c572f23a395299e
+run_name: tasteful-crow-744
+run_uuid: b7c75f17754e45088c572f23a395299e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740749917800
+status: 3
+tags: []
+user_id: zeidsmac
